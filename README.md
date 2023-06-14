@@ -1,1 +1,1 @@
-# Heart-Attack-
+# Heart-Attack-Prediction
